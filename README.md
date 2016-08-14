@@ -1,0 +1,1 @@
+Repositório criado para armazenar as atividades e o material de estudos da discipina de Análise de Algoritmos, do 5º semestre do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São Paulo.
